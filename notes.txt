@@ -1,0 +1,10 @@
+// Notes file for Coding Challenge
+
+So I clearly didn't finish the coding challenge. 
+I was working on a bug with the switch statements that calculated from decimal to roman and fdrom roman to decimal. 
+I think the bug had to do with type casting, but I am unsure.
+
+The next steps I would've taken would be:
+1) resolve the bug so the switch statements would return a string or integer as intended
+2) flush out the run test function in main so that I could automate the testing of the validating functions as well as the actual conversion functions
+3) increase the robust nature of the validateRoman() by rejecting roman values that had invalid ordering of accepted characters
